@@ -11,7 +11,7 @@ const IndexPage = () => (
     <h1>Hello, World</h1>
     <p>This is a test blog using Netlify CMS</p>
 
-    <Link to="/page-2/">Go to blog</Link>
+    <Link to="/blog/">Go to blog</Link>
   </Layout>
 )
 
